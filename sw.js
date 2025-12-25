@@ -1,4 +1,4 @@
-const CACHE_NAME = 'pwa-dual//fusi-Corek-v1';
+const CACHE_NAME = 'pwa-dual//fusi-Corek-v2';
 const ASSETS = [
     './',
     'index.html',
